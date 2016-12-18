@@ -1,8 +1,6 @@
 //***************************
 //
-//Project 4 - Dealer Class
-//
-//Quang Dao - qvd2000
+//Blackjack - Dealer Class
 //
 //***************************
 
