@@ -1,8 +1,6 @@
 //***************************
 //
-//Project 4 - Game Class
-//
-//Quang Dao - qvd2000
+//Blackjack - Game Class
 //
 //***************************
 
