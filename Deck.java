@@ -1,8 +1,6 @@
 //***************************
 //
-//Project 4 - Deck Class
-//
-//Quang Dao - qvd2000
+//Blackjack - Deck Class
 //
 //***************************
 
